@@ -3,7 +3,6 @@
 * n.鲍鱼
 
 - 经西班牙语abulón，来自美洲原住民语言
- 
 
 **2. abandon**
 
@@ -15,6 +14,8 @@
  
 + bandoner来自法兰克语，英语ban同源
 
+> J'abandonne.
+
 **3. abate**
 
 * v.减弱(trans.)
@@ -24,6 +25,8 @@
   来自拉丁语ab「从……离开」+battuo「打」
  
 + battuo和英语beat同源
+
+> Abate the tax.
 
 **4. abdicate**
 
@@ -35,6 +38,8 @@
  
 + dco「宣称」和dīco「说」同源
 
+> The player is celebrating the abdication of Enrique IV de Castilla.
+
 **5. abduct**
 
 * v.绑架
@@ -44,6 +49,8 @@
   构成自ab-duco
  
 + duco「引导」在英语中演变成了-duce（如produce）或者-duct（如induction）
+
+> The princess has saved the knight abducted by the dragon. 
 
 **6. aberrant**
 
@@ -55,6 +62,8 @@
  
 + erro「漫步；犯错」在英语中演变出了err和error
 
+> THE FOUNDER of the Communist Church has an aberrant behavior.
+
 **7. abet**
 
 * v.教唆
@@ -64,6 +73,8 @@
   a-来自拉丁语ad「向」
  
 + beter来自日耳曼语，英语的bait同源
+
+> The dragon was abetted to abduct a knight.
 
 **8. abhor**
 
@@ -81,6 +92,8 @@
  
 - 来自古英语ābīdan，等价于a-（意义类似于on）+bide「忍受（今已不常用）」
 
+> I can not abide K&R style.
+
 **10. abject**
 
 * a.悲惨的
@@ -91,11 +104,15 @@
  
 + icio「扔，投」的完成分词iectus在英语中演变成了-ject（如project）
 
+> To lowest pitch of abject fortune thou art fallen. --John Milton
+
 **11. ablaze** 
 
 * a.燃着的
  
 - 来自a-+blaze「火焰」 (="on blaze")
+
+> I'm ablaze! Fire resistance potion required!
 
 **12. abode**
 
@@ -122,6 +139,8 @@
   构成自ab-orior
  
 + orior「产生，出现，升起」的现在分词oriens在英语中演变出了oriental「东方的」取义自「（太阳）升起的（地方）」
+
+> Aborted. --Dev C++
 
 **15. abrade**
 
@@ -150,6 +169,8 @@
   abrumpo构成自ab-+rumpo「破坏」
  
 + rumpo的完成分词ruptus在英语演变出了corrupt（cor-即con-="together with"）
+
+> The pricess has made an abrupt decision about saving the knight.
 
 **18. abscond**
 
@@ -180,3 +201,5 @@
   abyssus又来自希腊语abyssos「无底的」（英语意义近似的abyss来源于此）
  
   abyssos构成自a-（希腊语的否定前缀，「无」）+bythos「海深」
+  
+> I can't believe that you know nothing about the IPA! Abysmal ignorance!
