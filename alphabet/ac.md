@@ -8,6 +8,8 @@
   
 + cedo演变成了英语的cede
 
+> Enrique IV de Castilla acceded to the throne.
+
 **22. acclaim**
 
 * v.称赞
@@ -17,6 +19,8 @@
   构成自ac-（ad-）+clamo「喊」
   
 + clamo演变成了英语的claim
+
+> The critics have acclaimed her performance.
 
 **23. acclimatize**
 
@@ -51,6 +55,8 @@
   compleo构成自com-（=con-）+pleo「填充」
   
 + pleo与plenus「满的」相关，而plenus在英语中有衍生词plenty
+
+> You have accomplished the mission of saving the knight! Congrats!
 
 **26. accost**
 
